@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+* body,p,h1,h2,h3,h4,h5,h6,ul,ol,dl,dd,input,textarea{ margin:0; padding:0;}
+li{ list-style:none;}
+a{ text-decoration:none;color:#666; }
+img{ vertical-align:top; border:none;}
+
+.fl{ float:left;}
+.fr{ float:right;}
+.clearfix:after{ content:''; display:block; clear:both;}
+.clearfix{zoom:1;}
+body{ font-size:12px;}
+input{ padding:0; outline:none;}
+textarea{ padding:0; outline:none; background:none; resize:none;}
